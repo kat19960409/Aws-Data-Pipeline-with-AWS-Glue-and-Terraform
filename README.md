@@ -1,7 +1,8 @@
 # Aws-Data-Pipeline-with-AWS-Glue-and-Terraform
 Overview Our goal is to extract data from S3, transform it, and load it into Redshift Serverless for further analysis, and Athena is also set up for ad-hoc light analyses. 
 
-https://miro.medium.com/v2/resize:fit:720/format:webp/1*G1Ef1SjRga7nkmYiC4Nuew.png
+![image](https://github.com/user-attachments/assets/f8b537ff-df78-4a62-af09-22c9115fd851)
+
 
 Here's an exciting project idea and its explanation:
 
